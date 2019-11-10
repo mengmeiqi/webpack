@@ -1,0 +1,10 @@
+#div2{
+    width: 200px;
+    height:200px;
+    background: #ff0000;
+}
+#div3{
+    width: 200px;
+    height: 200px;
+    background: url('../images/demo.png') no-repeat;
+}
