@@ -140,5 +140,5 @@
 ###### ⑥HTML 文件中的图片打包
 	github地址：https://github.com/wzsxyz/html-withimg-loader
 #### 5.webpack3和webpack4区别
-UglifyJsPlugin 现在不需要使用这个plugin了，只需要使用optimization.minimize为true就行，production mode下面自动为true
-optimization.minimizer可以配置你自己的压缩程序
+	UglifyJsPlugin 现在不需要使用这个plugin了，只需要使用optimization.minimize为true就行，production mode下面自动为true
+	optimization.minimizer可以配置你自己的压缩程序
