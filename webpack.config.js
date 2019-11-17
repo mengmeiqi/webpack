@@ -51,6 +51,7 @@ module.exports = {
           }
         }]
       },{
+        // html文件中的img打包
         test: /\.(htm|html)$/i,
         loader: 'html-withimg-loader'
       }
