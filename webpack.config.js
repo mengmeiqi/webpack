@@ -50,6 +50,9 @@ module.exports = {
             outputPath: 'images/'
           }
         }]
+      },{
+        test: /\.(htm|html)$/i,
+        loader: 'html-withimg-loader'
       }
     ]
   },
